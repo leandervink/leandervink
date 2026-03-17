@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @leandervink
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning containerization and microservices architecture
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me: postduif
+- ⚡ Fun fact: Octopuses have three hearts. Two pump blood to the gills, and the third pumps it to the rest of the body. But here’s the strange part: when an octopus swims, the heart that supplies the body stops beating—which is why octopuses prefer crawling along the seafloor instead of swimming. Swimming literally exhausts them!
 
-<!---
-leandervink/leandervink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Even cooler: the blood of the Octopus is blue because it uses hemocyanin (a copper-based molecule) instead of the iron-based hemoglobin humans use.
