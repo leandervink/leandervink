@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me: postduif
 - ⚡ Fun fact: Octopuses have three hearts. Two pump blood to the gills, and the third pumps it to the rest of the body. But here’s the strange part: when an octopus swims, the heart that supplies the body stops beating—which is why octopuses prefer crawling along the seafloor instead of swimming. Swimming literally exhausts them!
-
-Even cooler: the blood of the Octopus is blue because it uses hemocyanin (a copper-based molecule) instead of the iron-based hemoglobin humans use.
+- Even cooler: the blood of the Octopus is blue because it uses hemocyanin (a copper-based molecule) instead of the iron-based hemoglobin humans use.
